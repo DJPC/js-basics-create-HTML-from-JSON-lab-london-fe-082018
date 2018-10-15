@@ -4,14 +4,22 @@ document.addEventListener("DOMContentLoaded", (e) => {
   // your code here
   
 var Titanic = document.getElementById('Titanic')
-Titanic.addEventListener ("clickTitanic", function() {
-  console.log = 'movies.json'
+Titanic.addEventListener('click', function() {
 });
 
 
+document.getElementById("Terminator 2").addEventListener("click", DOMContentLoaded);
+function displayMovies 
+{});
+
+displayDate);
+
+function displayDate() {
+    document.getElementById("demo").innerHTML = Date();
+}
 
 var Terminator2 = document.getElementById('Terminator 2')
-document.addEventListener('keydown', function(e) {
+Terminator2.addEventListener('click', function(e) {
     if (e.which === onkeypress) {
       clickTerminator2()
     }
